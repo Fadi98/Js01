@@ -2,7 +2,7 @@ let jour ="";
 if (jour!=="samedi" || jour!=="dimanche") {
   console.log("weekday");
   
-}
-else {
+}else { 
+  
   console.log ("weekend ");
 }
