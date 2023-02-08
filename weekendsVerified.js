@@ -5,4 +5,4 @@ if (jour!=="samedi" || jour!=="dimanche") {
 }else { 
   
   console.log ("weekend ");
-}
+};
